@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>Translations in progress:</summary>
+<summary>Translations in progress:</summary> 
 
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
